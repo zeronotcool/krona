@@ -1,0 +1,16 @@
+{
+  "name": "krona",
+  "version": "1.0.0",
+  "description": "Scrapper para dc.fandom.com",
+  "main": "krona.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node krona.js"
+  },
+  "author": "VonPantostein",
+  "license": "WTFPL",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
