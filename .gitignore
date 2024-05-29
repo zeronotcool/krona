@@ -142,5 +142,7 @@ dist
 .svelte-kit
 
 output.html
+*.csv
+*.csv#
 
 # End of https://www.toptal.com/developers/gitignore/api/node
